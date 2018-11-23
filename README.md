@@ -1,4 +1,4 @@
-# vuegram-app
+# TaylerGram-app
 
 ## Project setup
 ```
