@@ -1,3 +1,3 @@
 module.exports = {
-  baseUrl: process.env.NODE.ENV === 'production' ? '/vuegram-app/' : ''
+  baseUrl: process.env.NODE.ENV === 'production' ? '/taylergram/' : ''
 }
